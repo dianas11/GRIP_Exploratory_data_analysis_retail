@@ -41,7 +41,7 @@ Overall profit is currently at 286.40K.
 * Consumer segment has purchased a significant number of furnitures and hence we can target that segment and for benefits in this category. 
 * Most bought sub category in the furniture category are chairs and bookcases. Thus we can launch more offers to get benefitted from them.
 * City Amarillo has the highest amount of sales and profit for the Furniture category. Hence we can target Consumers from that particular city for better results.
-* Since Office Supplies has a healhty game in the profit category, increasing it's sales would be an added advantage. Specially in Akron City. Both storage and paper sub category can be targetted.
+* Since Office Supplies has a healhty game in the profit category, increasing it's sales would be an added advantage. Specially in Akron City. Both storage and paper sub category can be targeted.
 -----------------------------------------------------------------------------------
   
 
