@@ -44,6 +44,7 @@ Overall profit is currently at 286.40K.
 * Since Office Supplies has a healhty game in the profit category, increasing it's sales would be an added advantage. Specially in Akron City. Both storage and paper sub category can be targeted.
 -----------------------------------------------------------------------------------
   
+  Click [here](https://docs.google.com/presentation/d/1-X6uWCFuXkDbbJ4wHsfpJBsny_4UvVC2L62HMR-2U2o/edit?usp=sharing) to find the ppt presentation.
 
 
 
